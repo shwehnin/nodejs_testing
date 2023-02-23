@@ -1,0 +1,47 @@
+{
+    "title": "PDF Generation",
+    "orders": [
+        {
+            "item_name": "iPhone",
+            "quantity": 1,
+            "price": "1200 $",
+            "discount": 0,
+            "note": "Apple is the best!"
+        },
+        {
+            "item_name": "iPad",
+            "quantity": 1,
+            "price": "1000 $",
+            "discount": 0,
+            "note": "Apple is the best!"
+        },
+        {
+            "item_name": "Mac book",
+            "quantity": 2,
+            "price": "2500 $",
+            "discount": 0,
+            "note": "Apple is the best!"
+        },
+        {
+            "item_name": "Samsung",
+            "quantity": 1,
+            "price": "1500 $",
+            "discount": 0,
+            "note": "Samsung is the most popular!"
+        },
+        {
+            "item_name": "Oppo",
+            "quantity": 1,
+            "price": "900 $",
+            "discount": 0,
+            "note": "Good brand"
+        },
+        {
+            "item_name": "Vivo",
+            "quantity": 1,
+            "price": "1000 $",
+            "discount": 0,
+            "note": "Not too bad!"
+        }
+    ]
+}
